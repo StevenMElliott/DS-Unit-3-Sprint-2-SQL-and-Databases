@@ -145,6 +145,7 @@ and search data, MongoDB wouldn't be a good option. If imagine your data being
 connected with other parts of data, MongoDB is probably not the best option.
   
 - What is "NewSQL", and what is it trying to achieve?
+
 NewSQL is trying to capture the best qualities of relational databases and
 the scalability of NoSQL systems. The goal of NewSQL is to maintain the ACID
 qualities while allowing for horizontal scalability. The impact is increasing
